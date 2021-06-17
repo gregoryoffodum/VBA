@@ -7,19 +7,19 @@
 
 
 ## OBJECTIVES
--Populate the sum salaries of individual roles for every subsidiary
--Generate a pdf summary for each workbook/subsidiary
--Generate a general sum total report of all spreadsheets
+- Populate the sum salaries of individual roles for every subsidiary
+- Generate a pdf summary for each workbook/subsidiary
+- Generate a general sum total report of all spreadsheets
 
 ## Folder contains: 
 
--6 Original workbooks: Addis Ababa, Havana, Kano, Lagos, Oslo, Tokyo (excluding summary report)
+- 6 Original workbooks: Addis Ababa, Havana, Kano, Lagos, Oslo, Tokyo (excluding summary report)
 
 A total of 14 files were created, excel and pdf reports (12) for each subsidiary and general summary (2):
 
--6 Automated workbooks: Addis Ababa, Havana, Kano, Lagos, Oslo, Tokyo (including summary report)
--6 Automated individual pdf reports: Addis Ababa, Havana, Kano, Lagos, Oslo, Tokyo 
--2 general summary reports
+- 6 Automated workbooks: Addis Ababa, Havana, Kano, Lagos, Oslo, Tokyo (including summary report)
+- 6 Automated individual pdf reports: Addis Ababa, Havana, Kano, Lagos, Oslo, Tokyo 
+- 2 general summary reports
 
 Private Sub CommandButton1_Click()
 
