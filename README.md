@@ -2,9 +2,9 @@
 Automation using VBA programming
 
 ## PROBLEM STATEMENT
--Six (6) workbooks (Addis Ababa, Havana, Kano, Lagos, Oslo, Tokyo) represent different subsidiaries.
--Each workbook consisting of five (5) columns each depict name, staff ID, role, and salary information
--Automation using VBA is required to summarize and export vital information from each sheet
+- Six (6) workbooks (Addis Ababa, Havana, Kano, Lagos, Oslo, Tokyo) represent different subsidiaries.
+- Each workbook consisting of five (5) columns each depict name, staff ID, role, and salary information
+- Automation using VBA is required to summarize and export vital information from each sheet
 
 
 ## OBJECTIVES
@@ -13,7 +13,7 @@ Automation using VBA programming
 - Generate a general sum total report of all spreadsheets
 
 ## Folder contains: 
-
+- "General Report" contains the VBA codes 
 - 6 Original workbooks: Addis Ababa, Havana, Kano, Lagos, Oslo, Tokyo (excluding summary report)
 
 A total of 14 files were created, excel and pdf reports (12) for each subsidiary and general summary (2):
